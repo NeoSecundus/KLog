@@ -14,7 +14,7 @@ install_options = [
 if my_sys == "Linux" or my_sys == "Windows":
     PyInstaller.run(install_options)
 elif my_sys == "Darwin":
-    install_options.append("--osx-bundle-identifier at.neosecundus.klog")
+    install_options.append("--osx-bundle-identifier net.anonymous.klog")
     PyInstaller.run(install_options)
 else:
     print(f"Not implemented: Build for os '{my_sys}' cannot be run!")
