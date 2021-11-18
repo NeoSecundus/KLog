@@ -1,5 +1,9 @@
-./dist
+dist/
+build/
 *.log
 .vscode
 .idea
-
+*.spec
+__pycache__/
+*conf*
+!DEFAULT_conf.py
