@@ -9,17 +9,27 @@ SPECIAL_KEYS = {
     "enter": "\n",
     "tab": "\t",
     "strg": "<strg>",
+    "ctrl": "<ctrl>",
+    "right ctrl": "<ctrl>",
     "strg-rechts": "<strg>",
     "alt": "<alt>",
     "alt gr": "<alt>",
     "entf": "<del>",
+    "delete": "<del>",
     "nach-links": "<l>",
+    "left": "<l>",
     "nach-rechts": "<r>",
+    "right": "<r>",
     "nach-oben": "<u>",
+    "up": "<u>",
+    "down": "<d>",
     "nach-unten": "<d>",
     "esc": "<esc>",
     "linke windows": "<win>",
-    "rechte windows": "<win>"
+    "rechte windows": "<win>",
+    "left windows": "<win>",
+    "right windows": "<win>",
+    "windows": "<win>"
 }
 
 #####  Server Config  #####
